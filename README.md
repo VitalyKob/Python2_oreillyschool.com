@@ -1,4 +1,4 @@
-# Python_1-2_oreillyschool.com
+# Python2_oreillyschool.com
 # Python2 
 
 # Lesson2
